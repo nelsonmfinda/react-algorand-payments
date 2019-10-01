@@ -1,1 +1,1 @@
-# react-algorand-payments
+# React Algorand Payments SDK
